@@ -284,3 +284,4 @@ django_x_ng/media/
 .pytest_cache/
 
 
+.vscode/settings.json
